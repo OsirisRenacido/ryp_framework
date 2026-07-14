@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-06-03T09:11:59.585798+00:00",
+  "ciclo": 1,
+  "corpus_analizados": 1,
+  "propiedades_candidatas": [
+    {
+      "id": "PROP_001",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_integracion_multi_dominio",
+      "confianza": 0.6764,
+      "metricas": {
+        "autopoiesis": 0.471667,
+        "closure": 0.090151,
+        "epistemic_gap": 0.381515
+      },
+      "familias_activas": [
+        "experiencia",
+        "computacion",
+        "psicologia",
+        "puente_ryp"
+      ],
+      "razon": "Integracion detectada en 4 familias activas",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+      "corpus_fuente": "sample.txt",
+      "senales": {
+        "family_coverage": 0.666667,
+        "autopoiesis_index": 0.471667,
+        "epistemic_gap_index": 0.381515
+      }
+    },
+    {
+      "id": "PROP_002",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_traduccion_operativa",
+      "confianza": 0.5402,
+      "metricas": {
+        "autopoiesis": 0.471667,
+        "closure": 0.090151,
+        "epistemic_gap": 0.381515
+      },
+      "familias_activas": [
+        "experiencia",
+        "computacion",
+        "psicologia",
+        "puente_ryp"
+      ],
+      "razon": "Capacidad de traduccion inferida por continuidad y diversidad semantica",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_TRADUCCION_OPERATIVA",
+      "corpus_fuente": "sample.txt",
+      "senales": {
+        "translational_cohesion": 0.362604,
+        "semantic_density": 0.208333,
+        "lexical_complexity": 0.722917
+      }
+    },
+    {
+      "id": "PROP_003",
+      "tipo": "metrica_novel",
+      "label": "closure_index_bajo_sin_precedente",
+      "confianza": 0.8868,
+      "metricas": {
+        "sentence_count": 2,
+        "token_count": 10,
+        "autopoiesis_index": 0.471667,
+        "closure_index": 0.090151,
+        "epistemic_gap_index": 0.381515,
+        "reentry_similarity": 0.339183,
+        "continuity_index": 0.381767,
+        "boundary_coherence_index": 0.763432
+      },
+      "familias_activas": [
+        "experiencia",
+        "computacion",
+        "psicologia",
+        "puente_ryp"
+      ],
+      "razon": "Valor de closure_index bajo, requiere evaluacion",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_CLOSURE_BAJO",
+      "corpus_fuente": "sample.txt",
+      "senales": {
+        "novelty_pressure": 0.835076,
+        "closure_index": 0.090151
+      }
+    }
+  ],
+  "estado_validacion": "EN_REVISION",
+  "decision_usuario": null,
+  "fecha_decision": null,
+  "notas_usuario": "",
+  "perfil_usuario": "general",
+  "source_txt": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\ryp_contract_v57oq6u4\\input_txt\\sample.txt",
+  "source_hash": "a03129cedb",
+  "metricas_globales": {
+    "sentence_count": 2,
+    "token_count": 10,
+    "unique_tokens": 10,
+    "unique_ratio": 1.0,
+    "avg_sentence_tokens": 5.0,
+    "autopoiesis_index": 0.4716666666666667,
+    "closure_index": 0.09015121122713632,
+    "epistemic_gap_index": 0.38151545543953036,
+    "reentry_similarity": 0.3391825917143256,
+    "continuity_index": 0.3817674968835135,
+    "boundary_coherence_index": 0.7634321990300957,
+    "family_count": 4,
+    "family_coverage": 0.6666666666666666,
+    "semantic_density": 0.20833333333333334,
+    "lexical_complexity": 0.7229166666666667,
+    "familias_activas": [
+      "experiencia",
+      "computacion",
+      "psicologia",
+      "puente_ryp"
+    ]
+  }
+}

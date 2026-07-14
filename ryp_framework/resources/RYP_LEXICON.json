@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "bundle_version": 2,
+    "entry_count": 6,
+    "source_path": "ryp_framework/resources/RYP_LEXICON.json",
+    "default_filename": "RYP_LEXICON.json",
+    "updated_at": "2026-06-03T00:00:00Z",
+    "active_regime": "acotado"
+  },
+  "regimes": {
+    "acotado": {
+      "path": "ryp_framework/resources/RYP_LEXICON.json",
+      "description": "lexicon minimo empaquetado para ejecucion standalone"
+    }
+  },
+  "entries": {
+    "realidad": [1, 0, 1, 0, 1],
+    "perspectiva": [0, 1, 1, 0, 1],
+    "sistema": [1, 1, 0, 1, 0],
+    "lenguaje": [0, 1, 0, 1, 1],
+    "aprendizaje": [1, 0, 0, 1, 1],
+    "autopoiesis": [1, 1, 1, 0, 0]
+  }
+}

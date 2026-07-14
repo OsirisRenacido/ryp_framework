@@ -1,0 +1,102 @@
+{
+  "timestamp": "2026-06-03T07:37:28.330779+00:00",
+  "ciclo": 1,
+  "corpus_analizados": 1,
+  "propiedades_candidatas": [
+    {
+      "id": "PROP_001",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_integracion_multi_dominio",
+      "confianza": 0.9584,
+      "metricas": {
+        "autopoiesis": 0.4775,
+        "closure": 0.086331,
+        "epistemic_gap": 0.391169
+      },
+      "familias_activas": [
+        "experiencia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Integracion detectada en 5 familias activas",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+      "corpus_fuente": "demo_semantica_ryp.txt"
+    },
+    {
+      "id": "PROP_002",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_traduccion_operativa",
+      "confianza": 0.775,
+      "metricas": {
+        "autopoiesis": 0.4775,
+        "closure": 0.086331,
+        "epistemic_gap": 0.391169
+      },
+      "familias_activas": [
+        "experiencia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Capacidad de traduccion inferida por continuidad y diversidad semantica",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_TRADUCCION_OPERATIVA",
+      "corpus_fuente": "demo_semantica_ryp.txt"
+    },
+    {
+      "id": "PROP_003",
+      "tipo": "metrica_novel",
+      "label": "closure_index_bajo_sin_precedente",
+      "confianza": 0.6637,
+      "metricas": {
+        "sentence_count": 2,
+        "token_count": 15,
+        "autopoiesis_index": 0.4775,
+        "closure_index": 0.086331,
+        "epistemic_gap_index": 0.391169,
+        "reentry_similarity": 0.339183,
+        "continuity_index": 0.20522,
+        "boundary_coherence_index": 0.691845
+      },
+      "familias_activas": [
+        "experiencia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Valor de closure_index bajo, requiere evaluacion",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_CLOSURE_BAJO",
+      "corpus_fuente": "demo_semantica_ryp.txt"
+    }
+  ],
+  "estado_validacion": "EN_REVISION",
+  "decision_usuario": null,
+  "fecha_decision": null,
+  "notas_usuario": "",
+  "source_txt": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\TXT\\demo_semantica_ryp.txt",
+  "source_hash": "74b919cfb2",
+  "metricas_globales": {
+    "sentence_count": 2,
+    "token_count": 15,
+    "unique_tokens": 15,
+    "unique_ratio": 1.0,
+    "avg_sentence_tokens": 7.5,
+    "autopoiesis_index": 0.47750000000000004,
+    "closure_index": 0.08633058335721333,
+    "epistemic_gap_index": 0.3911694166427867,
+    "reentry_similarity": 0.3391825917143256,
+    "continuity_index": 0.20522003854286708,
+    "boundary_coherence_index": 0.6918446701009867,
+    "family_count": 5,
+    "familias_activas": [
+      "experiencia",
+      "computacion",
+      "psicologia",
+      "puente_ryp",
+      "biociencias"
+    ]
+  }
+}

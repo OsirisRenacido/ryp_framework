@@ -1,0 +1,20 @@
+{
+  "q_id": "Q009",
+  "title": "Traduccion Operativa",
+  "bundle_dir": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q009",
+  "status": "NEEDS_CURATION",
+  "pipeline_stage": "CURATION_REQUIRED",
+  "candidate_key": "q1-serie-xxx-traduccion-operativa",
+  "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_quickstart_1594471783_DESCUBRIMIENTOS.json",
+  "artifacts": {
+    "readiness": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q009\\Q009_READINESS.md",
+    "evidence": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q009\\Q009_EVIDENCE.json",
+    "decision": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q009\\Q009_DECISION.json",
+    "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_quickstart_1594471783_DESCUBRIMIENTOS.json",
+    "staged_support": [
+      "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_quickstart_1594471783_DESCUBRIMIENTOS.md"
+    ]
+  },
+  "updated_at": "2026-06-03T07:40:25.242277+00:00",
+  "decision": "PENDING"
+}

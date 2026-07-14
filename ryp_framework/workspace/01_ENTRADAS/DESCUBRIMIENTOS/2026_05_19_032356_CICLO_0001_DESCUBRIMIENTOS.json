@@ -1,0 +1,227 @@
+{
+  "timestamp": "2026-05-19T03:23:56.626923Z",
+  "ciclo": 1,
+  "corpus_analizados": 5,
+  "propiedades_candidatas": [
+    {
+      "id": "PROP_001",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_integracion_multi_dominio",
+      "confianza": 0.95,
+      "metricas": {
+        "autopoiesis": 0.45,
+        "closure": 0.43,
+        "epistemic_gap": 0.1428571428571429
+      },
+      "familias_activas": [
+        "experiencia",
+        "filosofia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Subcapa detectada: Integración de 6 dominios de conocimiento",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+      "corpus_fuente": "MANIFIESTO_TXT_REPOSITORIO.csv"
+    },
+    {
+      "id": "PROP_002",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_traduccion_operativa",
+      "confianza": 0.75,
+      "metricas": {
+        "autopoiesis": 0.45,
+        "closure": 0.43,
+        "epistemic_gap": 0.1428571428571429
+      },
+      "familias_activas": [
+        "experiencia",
+        "filosofia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Subcapa detectada: Traducción entre dominios de conocimiento",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_TRADUCCION_OPERATIVA",
+      "corpus_fuente": "MANIFIESTO_TXT_REPOSITORIO.csv"
+    },
+    {
+      "id": "PROP_001",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_integracion_multi_dominio",
+      "confianza": 0.8,
+      "metricas": {
+        "autopoiesis": 0.79,
+        "closure": 0.4,
+        "epistemic_gap": 0.5714285714285714
+      },
+      "familias_activas": [
+        "filosofia",
+        "computacion",
+        "psicologia"
+      ],
+      "razon": "Subcapa detectada: Integración de 3 dominios de conocimiento",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+      "corpus_fuente": "MANIFIESTO_PAPERS_ORDEN_NUMERICO.csv"
+    },
+    {
+      "id": "PROP_001",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_integracion_multi_dominio",
+      "confianza": 0.9,
+      "metricas": {
+        "autopoiesis": 0.45,
+        "closure": 0.45,
+        "epistemic_gap": 0.4285714285714286
+      },
+      "familias_activas": [
+        "filosofia",
+        "computacion",
+        "psicologia",
+        "puente_ryp"
+      ],
+      "razon": "Subcapa detectada: Integración de 4 dominios de conocimiento",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+      "corpus_fuente": "ENSAYO_ONTOLOGICO_LOGOS_DECANTACION_Y_CIERRE_RECURSIVO_EN_RYP.txt"
+    },
+    {
+      "id": "PROP_002",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_traduccion_operativa",
+      "confianza": 0.75,
+      "metricas": {
+        "autopoiesis": 0.45,
+        "closure": 0.45,
+        "epistemic_gap": 0.4285714285714286
+      },
+      "familias_activas": [
+        "filosofia",
+        "computacion",
+        "psicologia",
+        "puente_ryp"
+      ],
+      "razon": "Subcapa detectada: Traducción entre dominios de conocimiento",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_TRADUCCION_OPERATIVA",
+      "corpus_fuente": "ENSAYO_ONTOLOGICO_LOGOS_DECANTACION_Y_CIERRE_RECURSIVO_EN_RYP.txt"
+    },
+    {
+      "id": "PROP_001",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_integracion_multi_dominio",
+      "confianza": 0.95,
+      "metricas": {
+        "autopoiesis": 0.66,
+        "closure": 0.39,
+        "epistemic_gap": 0.2857142857142857
+      },
+      "familias_activas": [
+        "filosofia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Subcapa detectada: Integración de 5 dominios de conocimiento",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+      "corpus_fuente": "Q1_PAPER_EXCLUSIVO_TEORIA_DE_LA_MENTE_RELACIONAL_EN_RYP_2026-04-26.txt"
+    },
+    {
+      "id": "PROP_002",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_traduccion_operativa",
+      "confianza": 0.75,
+      "metricas": {
+        "autopoiesis": 0.66,
+        "closure": 0.39,
+        "epistemic_gap": 0.2857142857142857
+      },
+      "familias_activas": [
+        "filosofia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Subcapa detectada: Traducción entre dominios de conocimiento",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_TRADUCCION_OPERATIVA",
+      "corpus_fuente": "Q1_PAPER_EXCLUSIVO_TEORIA_DE_LA_MENTE_RELACIONAL_EN_RYP_2026-04-26.txt"
+    },
+    {
+      "id": "PROP_001",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_integracion_multi_dominio",
+      "confianza": 0.95,
+      "metricas": {
+        "autopoiesis": 0.72,
+        "closure": 0.12,
+        "epistemic_gap": 0.1428571428571429
+      },
+      "familias_activas": [
+        "experiencia",
+        "filosofia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Subcapa detectada: Integración de 6 dominios de conocimiento",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+      "corpus_fuente": "Q1_PAPER_EXCLUSIVO_TEORIA_RELACIONAL_DEL_LENGUAJE_EN_RYP_2026-04-26.txt"
+    },
+    {
+      "id": "PROP_002",
+      "tipo": "subcapa_emergente",
+      "label": "subcapa_traduccion_operativa",
+      "confianza": 0.75,
+      "metricas": {
+        "autopoiesis": 0.72,
+        "closure": 0.12,
+        "epistemic_gap": 0.1428571428571429
+      },
+      "familias_activas": [
+        "experiencia",
+        "filosofia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Subcapa detectada: Traducción entre dominios de conocimiento",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_TRADUCCION_OPERATIVA",
+      "corpus_fuente": "Q1_PAPER_EXCLUSIVO_TEORIA_RELACIONAL_DEL_LENGUAJE_EN_RYP_2026-04-26.txt"
+    },
+    {
+      "id": "PROP_003",
+      "tipo": "metrica_novel",
+      "label": "closure_index_bajo_sin_precedente",
+      "confianza": 0.68,
+      "metricas": {
+        "sentence_count": 162,
+        "token_count": 1372,
+        "autopoiesis_index": 0.72,
+        "closure_index": 0.12,
+        "epistemic_gap_index": 0.1428571428571429,
+        "reentry_similarity": 0.984,
+        "continuity_index": 1.0,
+        "boundary_coherence_index": 0.06
+      },
+      "familias_activas": [
+        "experiencia",
+        "filosofia",
+        "computacion",
+        "psicologia",
+        "puente_ryp",
+        "biociencias"
+      ],
+      "razon": "Valor de closure_index muy bajo (< 0.2), potencialmente nuevo",
+      "recomendacion_serie_q": "Q1_SERIE_XXX_CLOSURE_BAJO",
+      "corpus_fuente": "Q1_PAPER_EXCLUSIVO_TEORIA_RELACIONAL_DEL_LENGUAJE_EN_RYP_2026-04-26.txt"
+    }
+  ],
+  "estado_validacion": "EN_REVISION",
+  "decision_usuario": null,
+  "fecha_decision": null,
+  "notas_usuario": ""
+}

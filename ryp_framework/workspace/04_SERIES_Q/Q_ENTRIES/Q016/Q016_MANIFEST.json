@@ -1,0 +1,20 @@
+{
+  "q_id": "Q016",
+  "title": "Argumentacion Metodologica",
+  "bundle_dir": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q016",
+  "status": "NEEDS_CURATION",
+  "pipeline_stage": "CURATION_REQUIRED",
+  "candidate_key": "q1-serie-xxx-argumentacion-metodologica",
+  "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_entrada_semantica_1594471783_DESCUBRIMIENTOS.json",
+  "artifacts": {
+    "readiness": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q016\\Q016_READINESS.md",
+    "evidence": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q016\\Q016_EVIDENCE.json",
+    "decision": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q016\\Q016_DECISION.json",
+    "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_entrada_semantica_1594471783_DESCUBRIMIENTOS.json",
+    "staged_support": [
+      "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_entrada_semantica_1594471783_DESCUBRIMIENTOS.md"
+    ]
+  },
+  "updated_at": "2026-06-03T08:37:09.674707+00:00",
+  "decision": "PENDING"
+}

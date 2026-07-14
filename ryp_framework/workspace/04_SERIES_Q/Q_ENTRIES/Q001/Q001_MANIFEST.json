@@ -1,0 +1,20 @@
+{
+  "q_id": "Q001",
+  "title": "Integracion Multi Dominio",
+  "bundle_dir": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q001",
+  "status": "READY_FOR_REVIEW",
+  "pipeline_stage": "PROMOTED",
+  "candidate_key": "q1-serie-xxx-integracion-multi-dominio",
+  "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\2026_05_19_032356_CICLO_0001_DESCUBRIMIENTOS.json",
+  "artifacts": {
+    "readiness": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q001\\Q001_READINESS.md",
+    "evidence": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q001\\Q001_EVIDENCE.json",
+    "decision": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q001\\Q001_DECISION.json",
+    "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\2026_05_19_032356_CICLO_0001_DESCUBRIMIENTOS.json",
+    "staged_support": [
+      "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\2026_05_19_032356_CICLO_0001_DESCUBRIMIENTOS.md"
+    ]
+  },
+  "updated_at": "2026-06-03T07:00:37.289122+00:00",
+  "decision": "PENDING"
+}

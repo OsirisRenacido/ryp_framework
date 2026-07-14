@@ -1,0 +1,20 @@
+{
+  "q_id": "Q003",
+  "title": "Closure Bajo",
+  "bundle_dir": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q003",
+  "status": "NEEDS_CURATION",
+  "pipeline_stage": "CURATION_REQUIRED",
+  "candidate_key": "q1-serie-xxx-closure-bajo",
+  "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\2026_05_19_032356_CICLO_0001_DESCUBRIMIENTOS.json",
+  "artifacts": {
+    "readiness": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q003\\Q003_READINESS.md",
+    "evidence": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q003\\Q003_EVIDENCE.json",
+    "decision": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q003\\Q003_DECISION.json",
+    "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\2026_05_19_032356_CICLO_0001_DESCUBRIMIENTOS.json",
+    "staged_support": [
+      "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\2026_05_19_032356_CICLO_0001_DESCUBRIMIENTOS.md"
+    ]
+  },
+  "updated_at": "2026-06-03T07:00:37.294000+00:00",
+  "decision": "PENDING"
+}

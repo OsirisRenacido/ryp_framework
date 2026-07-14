@@ -1,0 +1,20 @@
+{
+  "q_id": "Q021",
+  "title": "Claridad Pedagogica",
+  "bundle_dir": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q021",
+  "status": "NEEDS_CURATION",
+  "pipeline_stage": "CURATION_REQUIRED",
+  "candidate_key": "q1-serie-xxx-claridad-pedagogica",
+  "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_entrada_semantica_1594471783_DESCUBRIMIENTOS.json",
+  "artifacts": {
+    "readiness": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q021\\Q021_READINESS.md",
+    "evidence": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q021\\Q021_EVIDENCE.json",
+    "decision": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q021\\Q021_DECISION.json",
+    "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_entrada_semantica_1594471783_DESCUBRIMIENTOS.json",
+    "staged_support": [
+      "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_entrada_semantica_1594471783_DESCUBRIMIENTOS.md"
+    ]
+  },
+  "updated_at": "2026-06-03T09:12:23.917330+00:00",
+  "decision": "PENDING"
+}

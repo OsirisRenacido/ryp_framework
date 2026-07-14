@@ -1,0 +1,73 @@
+# Quickstart RYP Framework v1.0
+
+## Objetivo
+
+Ejecutar en minutos el pipeline completo TXT -> descubrimientos -> Q bundles usando el framework en modo standalone, con presets universales por perfil de usuario.
+
+## 1) Instalacion
+
+```bash
+pip install .
+```
+
+## 2) Activar modo standalone
+
+Windows PowerShell:
+
+```powershell
+$env:RYP_FRAMEWORK_STANDALONE="1"
+```
+
+## 3) Preparar input TXT
+
+Copiar tus archivos `.txt` a:
+
+- `ryp_framework/workspace/01_ENTRADAS/TXT`
+
+Puedes usar como referencia:
+
+- `ryp_framework/examples/demo_entrada_semantica.txt`
+
+## 4) Ejecutar pipeline completo
+
+```bash
+ryp run-all --pattern "*.txt" --profile general
+```
+
+Alternativas por perfil:
+
+```bash
+ryp run-all --pattern "*.txt" --profile academico
+ryp run-all --pattern "*.txt" --profile educativo
+ryp run-all --pattern "*.txt" --profile editorial
+ryp run-all --pattern "*.txt" --profile investigacion_aplicada
+```
+
+## 5) Revisar resultados
+
+- Descubrimientos JSON/MD:
+  - `ryp_framework/workspace/01_ENTRADAS/DESCUBRIMIENTOS`
+- Bundles Q:
+  - `ryp_framework/workspace/04_SERIES_Q/Q_ENTRIES/Qxxx/`
+- Estado global:
+  - `ryp_framework/workspace/11_OPERACION/runtime/q_series_registry.json`
+
+## Comandos utiles
+
+```bash
+ryp status
+ryp quickstart --profile general
+ryp ingest-txt --pattern "*.txt" --profile academico
+ryp run-cycle
+ryp run-all --limit-files 1
+ryp analyze --profile investigacion_aplicada
+ryp report --profile general
+```
+
+## Que esperar
+
+- Cada TXT produce un `*_DESCUBRIMIENTOS.json`.
+- El ciclo promueve candidatos a Q sin duplicar entradas existentes.
+- Cada Q tiene bundle auditable: readiness, evidence, manifest y decision.
+- Cada perfil agrega metricas y candidatos especializados en el discovery.
+- `analyze` genera pipeline + reporte universal en un solo comando.

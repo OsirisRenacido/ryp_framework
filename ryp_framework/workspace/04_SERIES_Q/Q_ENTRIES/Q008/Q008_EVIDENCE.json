@@ -1,0 +1,130 @@
+{
+  "q_id": "Q008",
+  "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_quickstart_1594471783_DESCUBRIMIENTOS.json",
+  "title": "Integracion Multi Dominio",
+  "builder_state": "draft",
+  "pipeline_stage": "INGESTED",
+  "candidate_key": "q1-serie-xxx-integracion-multi-dominio",
+  "discovery_summary": {
+    "source_name": "demo_quickstart_1594471783_DESCUBRIMIENTOS.json",
+    "timestamp": "2026-06-03T07:40:25.064394+00:00",
+    "ciclo": 1,
+    "corpus_analizados": 1,
+    "estado_validacion": "EN_REVISION",
+    "propiedades_detectadas": 3,
+    "recomendacion_base": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+    "suggested_title": "Integracion Multi Dominio",
+    "razon_principal": "Integracion detectada en 5 familias activas",
+    "familias_activas": [
+      "biociencias",
+      "computacion",
+      "experiencia",
+      "psicologia",
+      "puente_ryp"
+    ],
+    "corpus_fuente": [
+      "demo_quickstart.txt"
+    ],
+    "metricas_resumen": {
+      "autopoiesis": 0.483316,
+      "autopoiesis_index": 0.483316,
+      "boundary_coherence_index": 0.629936,
+      "closure": 0.085483,
+      "closure_index": 0.085483,
+      "continuity_index": 0.235719,
+      "epistemic_gap": 0.397833,
+      "epistemic_gap_index": 0.397833,
+      "reentry_similarity": 0.329711,
+      "sentence_count": 3.0,
+      "token_count": 29.0
+    },
+    "top_candidates": [
+      {
+        "candidate_key": "q1-serie-xxx-closure-bajo",
+        "id": "PROP_003",
+        "label": "closure_index_bajo_sin_precedente",
+        "tipo": "metrica_novel",
+        "confianza": 0.8995,
+        "recomendacion_serie_q": "Q1_SERIE_XXX_CLOSURE_BAJO",
+        "razon": "Valor de closure_index bajo, requiere evaluacion",
+        "familias_activas": [
+          "biociencias",
+          "computacion",
+          "experiencia",
+          "psicologia",
+          "puente_ryp"
+        ],
+        "corpus_fuente": [
+          "demo_quickstart.txt"
+        ],
+        "metricas": {
+          "autopoiesis_index": 0.483316,
+          "boundary_coherence_index": 0.629936,
+          "closure_index": 0.085483,
+          "continuity_index": 0.235719,
+          "epistemic_gap_index": 0.397833,
+          "reentry_similarity": 0.329711,
+          "sentence_count": 3.0,
+          "token_count": 29.0
+        },
+        "count": 1,
+        "suggested_title": "Closure Bajo"
+      },
+      {
+        "candidate_key": "q1-serie-xxx-integracion-multi-dominio",
+        "id": "PROP_001",
+        "label": "subcapa_integracion_multi_dominio",
+        "tipo": "subcapa_emergente",
+        "confianza": 0.7399,
+        "recomendacion_serie_q": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+        "razon": "Integracion detectada en 5 familias activas",
+        "familias_activas": [
+          "biociencias",
+          "computacion",
+          "experiencia",
+          "psicologia",
+          "puente_ryp"
+        ],
+        "corpus_fuente": [
+          "demo_quickstart.txt"
+        ],
+        "metricas": {
+          "autopoiesis": 0.483316,
+          "closure": 0.085483,
+          "epistemic_gap": 0.397833
+        },
+        "count": 1,
+        "suggested_title": "Integracion Multi Dominio"
+      },
+      {
+        "candidate_key": "q1-serie-xxx-traduccion-operativa",
+        "id": "PROP_002",
+        "label": "subcapa_traduccion_operativa",
+        "tipo": "subcapa_emergente",
+        "confianza": 0.5955,
+        "recomendacion_serie_q": "Q1_SERIE_XXX_TRADUCCION_OPERATIVA",
+        "razon": "Capacidad de traduccion inferida por continuidad y diversidad semantica",
+        "familias_activas": [
+          "biociencias",
+          "computacion",
+          "experiencia",
+          "psicologia",
+          "puente_ryp"
+        ],
+        "corpus_fuente": [
+          "demo_quickstart.txt"
+        ],
+        "metricas": {
+          "autopoiesis": 0.483316,
+          "closure": 0.085483,
+          "epistemic_gap": 0.397833
+        },
+        "count": 1,
+        "suggested_title": "Traduccion Operativa"
+      }
+    ]
+  },
+  "staged_support_files": [
+    "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_quickstart_1594471783_DESCUBRIMIENTOS.md"
+  ]
+}

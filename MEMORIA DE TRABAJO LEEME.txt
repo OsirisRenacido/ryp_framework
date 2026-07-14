@@ -1,0 +1,29 @@
+# RYP Framework Espacio de Trabajo Interno
+
+Esta carpeta es la superficie de trabajo autónoma para el paquete instalable `ryp_framework`.
+
+Estructura:
+
+- `01_ENTRADAS/TXT/`: corpus de entrada en formato TXT sin procesar.
+- `01_ENTRADAS/DESCUBRIMIENTOS/`: cargas de descubrimiento para ser promovidas a artefactos de la Serie Q.
+- `04_SERIES_Q/Q_ENTRIES/`: paquetes Q generados, una carpeta por ID de Q (`Q001/`, `Q002/`, ...).
+- `11_OPERACION/runtime/`: registro y estado de ejecución generados por la CLI del framework.
+
+Los valores predeterminados de la CLI (`ryp status`, `ryp init-registry`, `ryp scaffold-q`) se resuelven aquí para que el framework pueda evolucionar como su propio espacio de trabajo futuro.
+
+Cada paquete Q actualmente contiene:
+
+- `Qxxx_READINESS.md`
+- `Qxxx_EVIDENCE.json`
+- `Qxxx_MANIFEST.json`
+- `Qxxx_DECISION.json`
+
+El comando `ryp run-cycle` aplica transiciones automáticas de etapa:
+
+- `DRAFT -> READY_FOR_REVIEW`
+- `DRAFT -> UNDER_REVIEW`
+- `DRAFT -> NEEDS_CURATION`
+
+Estas transiciones se reflejan tanto en el registro como en cada archivo `Qxxx_MANIFEST.json`.
+
+Contrato de ingestión de TXT: - `ryp ingest-txt` convierte archivos TXT en cargas útiles de descubrimiento JSON/MD. - `ryp run-all` ejecuta la canalización de extremo a extremo: TXT -> descubrimientos -> paquetes Q.

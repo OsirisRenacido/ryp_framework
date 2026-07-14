@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: ryp-framework
+Version: 1.0.0
+Summary: Realidades y Perspectivas (RYP) — S-A-M semantic dynamics framework
+Author-email: "Realidades y Perspectivas (RYP) Cognitiva" <contacto@rypiacognitiva.cl>
+License: Business Source License 1.1 (BUSL-1.1)
+Requires-Python: >=3.9
+License-File: LICENSE.md
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: scikit-learn>=1.2
+Requires-Dist: fastapi>=0.100
+Requires-Dist: uvicorn>=0.22
+Requires-Dist: pydantic>=2.0
+Requires-Dist: requests>=2.28
+Requires-Dist: networkx>=3.0
+Requires-Dist: sympy>=1.12
+Provides-Extra: automation
+Requires-Dist: fastapi>=0.100; extra == "automation"
+Requires-Dist: uvicorn>=0.22; extra == "automation"
+Requires-Dist: pydantic>=2.0; extra == "automation"
+Dynamic: license-file

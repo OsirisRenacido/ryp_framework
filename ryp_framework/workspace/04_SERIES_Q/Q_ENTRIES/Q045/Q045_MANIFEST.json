@@ -1,0 +1,20 @@
+{
+  "q_id": "Q045",
+  "title": "Traduccion Operativa",
+  "bundle_dir": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q045",
+  "status": "NEEDS_CURATION",
+  "pipeline_stage": "CURATION_REQUIRED",
+  "candidate_key": "q1-serie-xxx-traduccion-operativa",
+  "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\report_a03129cedb_DESCUBRIMIENTOS.json",
+  "artifacts": {
+    "readiness": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q045\\Q045_READINESS.md",
+    "evidence": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q045\\Q045_EVIDENCE.json",
+    "decision": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q045\\Q045_DECISION.json",
+    "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\report_a03129cedb_DESCUBRIMIENTOS.json",
+    "staged_support": [
+      "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\report_a03129cedb_DESCUBRIMIENTOS.md"
+    ]
+  },
+  "updated_at": "2026-07-14T02:29:03.072643+00:00",
+  "decision": "PENDING"
+}

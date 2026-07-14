@@ -1,0 +1,126 @@
+{
+  "q_id": "Q011",
+  "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\sample_a03129cedb_DESCUBRIMIENTOS.json",
+  "title": "Integracion Multi Dominio",
+  "builder_state": "draft",
+  "pipeline_stage": "INGESTED",
+  "candidate_key": "q1-serie-xxx-integracion-multi-dominio",
+  "discovery_summary": {
+    "source_name": "sample_a03129cedb_DESCUBRIMIENTOS.json",
+    "timestamp": "2026-06-03T07:40:25.042544+00:00",
+    "ciclo": 1,
+    "corpus_analizados": 1,
+    "estado_validacion": "EN_REVISION",
+    "propiedades_detectadas": 3,
+    "recomendacion_base": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+    "suggested_title": "Integracion Multi Dominio",
+    "razon_principal": "Integracion detectada en 4 familias activas",
+    "familias_activas": [
+      "computacion",
+      "experiencia",
+      "psicologia",
+      "puente_ryp"
+    ],
+    "corpus_fuente": [
+      "sample.txt"
+    ],
+    "metricas_resumen": {
+      "autopoiesis": 0.471667,
+      "autopoiesis_index": 0.471667,
+      "boundary_coherence_index": 0.763432,
+      "closure": 0.090151,
+      "closure_index": 0.090151,
+      "continuity_index": 0.381767,
+      "epistemic_gap": 0.381515,
+      "epistemic_gap_index": 0.381515,
+      "reentry_similarity": 0.339183,
+      "sentence_count": 2.0,
+      "token_count": 10.0
+    },
+    "top_candidates": [
+      {
+        "candidate_key": "q1-serie-xxx-closure-bajo",
+        "id": "PROP_003",
+        "label": "closure_index_bajo_sin_precedente",
+        "tipo": "metrica_novel",
+        "confianza": 0.8868,
+        "recomendacion_serie_q": "Q1_SERIE_XXX_CLOSURE_BAJO",
+        "razon": "Valor de closure_index bajo, requiere evaluacion",
+        "familias_activas": [
+          "computacion",
+          "experiencia",
+          "psicologia",
+          "puente_ryp"
+        ],
+        "corpus_fuente": [
+          "sample.txt"
+        ],
+        "metricas": {
+          "autopoiesis_index": 0.471667,
+          "boundary_coherence_index": 0.763432,
+          "closure_index": 0.090151,
+          "continuity_index": 0.381767,
+          "epistemic_gap_index": 0.381515,
+          "reentry_similarity": 0.339183,
+          "sentence_count": 2.0,
+          "token_count": 10.0
+        },
+        "count": 1,
+        "suggested_title": "Closure Bajo"
+      },
+      {
+        "candidate_key": "q1-serie-xxx-integracion-multi-dominio",
+        "id": "PROP_001",
+        "label": "subcapa_integracion_multi_dominio",
+        "tipo": "subcapa_emergente",
+        "confianza": 0.6764,
+        "recomendacion_serie_q": "Q1_SERIE_XXX_INTEGRACION_MULTI_DOMINIO",
+        "razon": "Integracion detectada en 4 familias activas",
+        "familias_activas": [
+          "computacion",
+          "experiencia",
+          "psicologia",
+          "puente_ryp"
+        ],
+        "corpus_fuente": [
+          "sample.txt"
+        ],
+        "metricas": {
+          "autopoiesis": 0.471667,
+          "closure": 0.090151,
+          "epistemic_gap": 0.381515
+        },
+        "count": 1,
+        "suggested_title": "Integracion Multi Dominio"
+      },
+      {
+        "candidate_key": "q1-serie-xxx-traduccion-operativa",
+        "id": "PROP_002",
+        "label": "subcapa_traduccion_operativa",
+        "tipo": "subcapa_emergente",
+        "confianza": 0.5402,
+        "recomendacion_serie_q": "Q1_SERIE_XXX_TRADUCCION_OPERATIVA",
+        "razon": "Capacidad de traduccion inferida por continuidad y diversidad semantica",
+        "familias_activas": [
+          "computacion",
+          "experiencia",
+          "psicologia",
+          "puente_ryp"
+        ],
+        "corpus_fuente": [
+          "sample.txt"
+        ],
+        "metricas": {
+          "autopoiesis": 0.471667,
+          "closure": 0.090151,
+          "epistemic_gap": 0.381515
+        },
+        "count": 1,
+        "suggested_title": "Traduccion Operativa"
+      }
+    ]
+  },
+  "staged_support_files": [
+    "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\sample_a03129cedb_DESCUBRIMIENTOS.md"
+  ]
+}

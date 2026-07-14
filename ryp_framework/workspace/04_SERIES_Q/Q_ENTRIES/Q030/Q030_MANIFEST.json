@@ -1,0 +1,20 @@
+{
+  "q_id": "Q030",
+  "title": "Closure Bajo",
+  "bundle_dir": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q030",
+  "status": "UNDER_REVIEW",
+  "pipeline_stage": "VALIDATION_IN_PROGRESS",
+  "candidate_key": "q1-serie-xxx-closure-bajo",
+  "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_entrada_semantica_1594471783_DESCUBRIMIENTOS.json",
+  "artifacts": {
+    "readiness": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q030\\Q030_READINESS.md",
+    "evidence": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q030\\Q030_EVIDENCE.json",
+    "decision": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\04_SERIES_Q\\Q_ENTRIES\\Q030\\Q030_DECISION.json",
+    "source": "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_entrada_semantica_1594471783_DESCUBRIMIENTOS.json",
+    "staged_support": [
+      "C:\\Users\\Usuario\\Documents\\RYP\\workspace\\REVISION_GITHUB_MAIN_RYPFRAMEWORK\\ryp framework universal 1.0\\ryp_framework\\workspace\\01_ENTRADAS\\DESCUBRIMIENTOS\\demo_entrada_semantica_1594471783_DESCUBRIMIENTOS.md"
+    ]
+  },
+  "updated_at": "2026-07-14T02:29:03.004005+00:00",
+  "decision": "PENDING"
+}

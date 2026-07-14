@@ -1,0 +1,3 @@
+[console_scripts]
+ryp = ryp_framework.cli:main
+ryp-gui = ryp_framework.gui_app:main
