@@ -7,7 +7,7 @@
 [![License: BUSL-1.1](https://img.shields.io/badge/License-BUSL--1.1-blue.svg)](LICENSE.md)
 [![Python: 3.9+](https://img.shields.io/badge/Python-3.9%2B-green.svg)](#requirements)
 [![Engine: S-A-M Dynamics](https://img.shields.io/badge/Engine-S--A--M--Dynamics-orange.svg)](#the-s-a-m-paradigm)
-[![OSF: Public Science](https://img.shields.io/badge/OSF-Public%20Science-red.svg)](https://osf.io/7vzk4/)
+[![OSF: Public Science](https://img.shields.io/badge/OSF-Public%20Science-red.svg)](https://osf.io/9yjvq/overview)
 
 **RYP Framework** es la base autónoma y portable del ecosistema **Realidades y Perspectivas (RYP)** diseñada para procesar corpus de texto plano (`.txt`), mapear su geometría conceptual en un espacio vectorial de tres dimensiones, y promover descubrimientos estructurados en "Bundles" auditables de la **Serie Q** sin depender de servidores en la nube.
 
@@ -83,7 +83,7 @@ El framework opera de forma local y portable mediante una estructura simplificad
 
 Dado que este ecosistema representa el desarrollo e investigación independiente de un equipo de **una sola persona**, abrimos activamente puertas profesionales en dos vertientes:
 
-*   **Para el Ámbito de Investigación**: Validación, testeo por pares, réplica experimental del motor S-A-M y auditoría externa de las Series Q. Contamos con documentación científica abierta alojada en el Open Science Framework: [OSF Public Registry](https://osf.io/7vzk4/).
+*   **Para el Ámbito de Investigación**: Validación, testeo por pares, réplica experimental del motor S-A-M y auditoría externa de las Series Q. Contamos con documentación científica abierta alojada en el Open Science Framework: [OSF Public Registry](https://osf.io/9yjvq/overview).
 *   **Para el Ámbito Empresarial**: Soporte de consultoría estratégica, desarrollo de integraciones personalizadas complejas o acoplamientos con nuestro Enjambre de Agentes privados y la interfaz rica del Cristal Conversacional 3D de producción.
 
 ---
@@ -101,7 +101,7 @@ Este repositorio público se distribuye bajo la licencia **Business Source Licen
 ## 📯 Contacto Oficial y Redes
 
 *   **Sitio Web**: [rypiacognitiva.cl](https://rypiacognitiva.cl)
-*   **OSF Público**: [Open Science Framework Profile (7vzk4)](https://osf.io/7vzk4/)
+*   **OSF Público**: [Open Science Framework Profile (9yjvq/overview)](https://osf.io/9yjvq/overview)
 *   **Correos de Soporte y Licencias Comerciales**: 
     *   📧 `contacto@rypiacognitiva.cl`
     *   📧 `ryp.iacognitiva@gmail.com`
