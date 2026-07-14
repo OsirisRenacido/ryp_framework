@@ -88,6 +88,21 @@ Dado que este ecosistema representa el desarrollo e investigación independiente
 
 ---
 
+---
+
+## ⚠️ Alcance de Contribución y Restricción de Publicación
+
+**AVISO DE SEGURIDAD OPERATIVA IMPORTANTÍSIMO**: 
+Este repositorio público está destinado **únicamente** a la distribución curada de la edición **Standalone del RYP-Framework (v1.0.0)**. 
+
+*   **¿Qué NO debe ser publicado aquí?**: Está estrictamente prohibido subir, acoplar, bifurcar con intención de mezclar, o publicar en este repositorio cualquier componente del entorno de desarrollo propietario privado de **RYP Cognitiva**. Esto incluye:
+    *   Arquitecturas de comunicación de red internas del backend privado en el puerto `8010`.
+    *   Algoritmos, código fuente o configuraciones del **Enjambre de Agentes Cognitivos concurrentes** (`logs/swarm/`, orquestador completo de 7 etapas).
+    *   Archivos de credenciales físicas o de entorno local conteniendo tokens de backend (`.runtime_llm_env`, claves API de Gemini, OpenAI, Cloudflare o Vercel).
+    *   La base de datos física del corpus e índices enciclopédicos completos de la compañía.
+    *   El código del frontend conversacional del **Cristal Vivo Inteligente 3D** en producción.
+*   **Aprobación requerida**: Ningún científico de datos, agente de automatización (incluyendo asistentes IA), o colaborador externo puede iniciar publicaciones, registrar issues o proponer modificaciones en esta línea pública de desarrollo a menos que sea **instruido y aprobado de manera explícita y por escrito** por el creador y director general del ecosistema, **Joaquín Rosales Flores**.
+
 ## ⚖️ Licenciamiento y Protección Comercial
 
 Este repositorio público se distribuye bajo la licencia **Business Source License 1.1 (BUSL-1.1)**. 
