@@ -43,11 +43,15 @@ El framework opera de forma local y portable mediante una estructura simplificad
 1. Clona este repositorio público:
 
    ```bash
-   git clone https://github.com/tu-usuario/ryp-framework.git
-   cd ryp-framework
+   git clone https://github.com/psirosalesf/ryp_framework.git
+   cd ryp_framework
    ```
 
-2. Instala el framework y sus dependencias en modo editable.
+2. Instala el framework y sus dependencias en modo editable:
+
+   ```bash
+   pip install -e .
+   ```
 3. Activa la variable de ambiente Standalone:
    - PowerShell: `$env:RYP_FRAMEWORK_STANDALONE="1"`
    - Bash / macOS: `export RYP_FRAMEWORK_STANDALONE=1`
@@ -55,6 +59,11 @@ El framework opera de forma local y portable mediante una estructura simplificad
    - `ryp_framework/workspace/01_ENTRADAS/TXT/`
 5. Ejecuta el pipeline completo de análisis configurando el perfil de tu área de interés.
    - Presets disponibles: `general`, `academico`, `educativo`, `editorial`, `investigacion_aplicada`.
+   - Ejemplo:
+
+   ```bash
+   ryp run-cycle --preset academico
+   ```
 
 ## 🛠️ Comandos Clave del CLI
 
