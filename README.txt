@@ -20,7 +20,9 @@ Esta version 1.0.0 incorpora una capa de usuario universal con presets por perfi
 Desde la raiz del repositorio:
 
 ```bash
-pip install .
+git clone https://github.com/OsirisRenacido/ryp_framework.git
+cd ryp_framework
+pip install -e .
 ```
 
 En PowerShell (recomendado para modo standalone):
