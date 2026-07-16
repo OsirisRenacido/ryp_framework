@@ -1,6 +1,6 @@
 # RYP Framework v1.0.0 (Universal Standalone Edition)
 
-*Plataforma oficial de distribución, difusión y puesta en valor de **Realidades y Perspectivas (RYP)**. Un espacio formal para la colaboración, co-creación y validación externa del sistema, su software y su creador original, **Joaquín Rosales Flores**.*
+*Plataforma oficial de distribución, difusión y puesta en valor de **Realidades y Perspectivas (RYP)**. Un espacio formal para la colaboración, co-creación y validación externa del sistema, su metodología y sus salidas de conocimiento.*
 
 ---
 
@@ -46,7 +46,7 @@ El framework opera de forma local y portable mediante una estructura simplificad
 
 1. Clona este repositorio público:
    ```bash
-   git clone https://github.com/psirosalesf/ryp_framework.git
+   git clone https://github.com/OsirisRenacido/ryp_framework.git
    cd ryp_framework
    ```
 
@@ -81,10 +81,10 @@ El framework opera de forma local y portable mediante una estructura simplificad
 
 ## ⚙️ Instancias de Colaboración y Validación Colectiva
 
-Dado que este ecosistema representa el desarrollo e investigación independiente de un equipo de **una sola persona**, abrimos activamente puertas profesionales en dos vertientes:
+Dado que este ecosistema representa el desarrollo e investigación independiente, abrimos activamente puertas profesionales en dos vertientes:
 
-*   **Para el Ámbito de Investigación**: Validación, testeo por pares, réplica experimental del motor S-A-M y auditoría externa de las Series Q. Contamos con documentación científica abierta alojada en el Open Science Framework: [OSF Public Registry](https://osf.io/9yjvq/overview).
-*   **Para el Ámbito Empresarial**: Soporte de consultoría estratégica, desarrollo de integraciones personalizadas complejas o acoplamientos con nuestro Enjambre de Agentes privados y la interfaz rica del Cristal Conversacional 3D de producción.
+*   **Para el Ámbito de Investigación**: Validación, testeo por pares, réplica experimental del motor S-A-M y auditoría externa de las Series Q. Contamos con documentación científica abierta en el repositorio de Open Science Framework (OSF).
+*   **Para el Ámbito Empresarial**: Soporte de consultoría estratégica y desarrollo de integraciones personalizadas.
 
 ---
 
@@ -95,21 +95,16 @@ Dado que este ecosistema representa el desarrollo e investigación independiente
 **AVISO DE SEGURIDAD OPERATIVA IMPORTANTÍSIMO**: 
 Este repositorio público está destinado **únicamente** a la distribución curada de la edición **Standalone del RYP-Framework (v1.0.0)**. 
 
-*   **¿Qué NO debe ser publicado aquí?**: Está estrictamente prohibido subir, acoplar, bifurcar con intención de mezclar, o publicar en este repositorio cualquier componente del entorno de desarrollo propietario privado de **RYP Cognitiva**. Esto incluye:
-    *   Arquitecturas de comunicación de red internas del backend privado en el puerto `8010`.
-    *   Algoritmos, código fuente o configuraciones del **Enjambre de Agentes Cognitivos concurrentes** (`logs/swarm/`, orquestador completo de 7 etapas).
-    *   Archivos de credenciales físicas o de entorno local conteniendo tokens de backend (`.runtime_llm_env`, claves API de Gemini, OpenAI, Cloudflare o Vercel).
-    *   La base de datos física del corpus e índices enciclopédicos completos de la compañía.
-    *   El código del frontend conversacional del **Cristal Vivo Inteligente 3D** en producción.
-*   **Aprobación requerida**: Ningún científico de datos, agente de automatización (incluyendo asistentes IA), o colaborador externo puede iniciar publicaciones, registrar issues o proponer modificaciones en esta línea pública de desarrollo a menos que sea **instruido y aprobado de manera explícita y por escrito** por el creador y director general del ecosistema, **Joaquín Rosales Flores**.
+*   **¿Qué NO debe ser publicado aquí?**: Está estrictamente prohibido subir, acoplar, bifurcar con intención de mezclar, o publicar en este repositorio cualquier componente que no forme parte de la edición Standalone autorizada para distribución pública.
+*   **Aprobación requerida**: Ningún colaborador externo puede iniciar publicaciones, registrar issues o proponer modificaciones sin aprobación previa.
 
 ## ⚖️ Licenciamiento y Protección Comercial
 
 Este repositorio público se distribuye bajo la licencia **Business Source License 1.1 (BUSL-1.1)**. 
 
-*   **Uso No Comercial (Totalmente Gratuito)**: Puedes compilar, bifurcar, estudiar y utilizar este software de manera 100% gratuita para investigación científica, evaluación personal, docencia y uso académico.
-*   **Restricción Comercial Estricta**: Cualquier explotación económica directa, uso en entornos de producción de empresas o distribución como servicio SaaS de hosting comercial por terceros está **estrictamente prohibida** sin la previa firma de un contrato de licencia comercial con la empresa.
-*   **Transición a Software Libre**: El 13 de Julio de 2029 (3 años de exclusividad de mercado), la licencia de esta versión transicionará automáticamente a una licencia libre permisiva **GNU General Public License v3.0 (GPL-3.0)** o posterior.
+*   **Uso No Comercial (Totalmente Gratuito)**: Puedes compilar, bifurcar, estudiar y utilizar este software de manera 100% gratuita para investigación científica, evaluación personal, docencia y experimentación académica.
+*   **Restricción Comercial Estricta**: Cualquier explotación económica directa, uso en entornos de producción de empresas o distribución como servicio SaaS de hosting comercial por terceros está prohibida sin licencia comercial explícita.
+*   **Transición a Software Libre**: El 13 de Julio de 2029 (3 años de exclusividad de mercado), la licencia de esta versión transicionará automáticamente a una licencia libre permisiva **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
 ---
 
