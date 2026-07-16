@@ -1,7 +1,7 @@
 # Q012 Readiness
 
 - title: Traduccion Operativa
-- source: C:\Users\Usuario\Documents\RYP\workspace\REVISION_GITHUB_MAIN\ryp_framework\workspace\01_ENTRADAS\DESCUBRIMIENTOS\sample_a03129cedb_DESCUBRIMIENTOS.json
+- source: ryp_framework/workspace/01_ENTRADAS/DESCUBRIMIENTOS/sample_a03129cedb_DESCUBRIMIENTOS.json
 - status: DRAFT
 - estado_validacion_origen: EN_REVISION
 - ciclo_origen: 1
@@ -39,7 +39,7 @@ Capacidad de traduccion inferida por continuidad y diversidad semantica
 
 ## Evidence
 
-- source artifact: C:\Users\Usuario\Documents\RYP\workspace\REVISION_GITHUB_MAIN\ryp_framework\workspace\01_ENTRADAS\DESCUBRIMIENTOS\sample_a03129cedb_DESCUBRIMIENTOS.json
+- source artifact: ryp_framework/workspace/01_ENTRADAS/DESCUBRIMIENTOS/sample_a03129cedb_DESCUBRIMIENTOS.json
 - propiedades_candidatas: 3
 
 ## Pending validation
